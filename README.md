@@ -6,11 +6,11 @@ Nelson Spruston is now at Janelia Farm:
 
 ---
 
-|                                                                                                    |                           |
-|----------------------------------------------------------------------------------------------------|---------------------------|
-| **"Conditional dendritic spike propagation following distal synaptic activation of hippocampal CA1 pyramidal neurons"**  | ![Image](index_files/probability)   |
-| Tim Jarsky, Alex Roxin, William L. Kath, and Nelson Spruston                                        |                           |
-| [*Nature Neuroscience*, 2005](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16299501&query_hl=1) |                           |
-| [Download the simulation archive](http://dendrites.esam.northwestern.edu/NN_2005/Gating.zip)       |                           |
+**"Conditional dendritic spike propagation following distal synaptic activation of hippocampal CA1 pyramidal neurons"**  
+Tim Jarsky, Alex Roxin, William L. Kath, and Nelson Spruston  
+[*Nature Neuroscience*, 2005](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16299501&query_hl=1)  
+[Download the simulation archive](http://dendrites.esam.northwestern.edu/NN_2005/Gating.zip)   
+![Image](index_files/probability)
 
+## Changelog
 2025-06-02: Converted README to Markdown.
